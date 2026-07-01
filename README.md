@@ -11,4 +11,4 @@ Convert grayscale images into colorized versions using computer vision and deep 
    ```bash
    git clone https://github.com/Nivedithakatta08/image-colorization.git
    cd image-colorization
-"# Image Colorization Project" 
+
